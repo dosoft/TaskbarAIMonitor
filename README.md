@@ -7,7 +7,7 @@ never in the way.
 [![Download](https://img.shields.io/github/v/release/dosoft/TaskbarAIMonitor?label=Download%20for%20Windows)](https://github.com/dosoft/TaskbarAIMonitor/releases/latest/download/taskbar-ai-monitor-win-Setup.exe)
 
 <p align="center">
-  <img src="media/taskbar.png" width="745" alt="The strip on the Windows taskbar next to the tray"><br>
+  <img src="media/taskbar.png" width="879" alt="The strip on the Windows taskbar next to the tray and clock"><br>
   <sub>On the taskbar — Codex, Devin and DeepSeek next to the tray</sub>
 </p>
 <p align="center">
