@@ -6,11 +6,11 @@ never in the way.
 
 [![Download](https://img.shields.io/github/v/release/dosoft/TaskbarAIMonitor?label=Download%20for%20Windows)](https://github.com/dosoft/TaskbarAIMonitor/releases/latest/download/taskbar-ai-monitor-win-Setup.exe)
 
-<p>
-  <img src="media/widget.png" width="471" alt="The taskbar strip showing Codex, Devin and DeepSeek meters"><br>
-  <sub>On the taskbar — Codex, Devin and DeepSeek at a glance</sub>
+<p align="center">
+  <img src="media/taskbar.png" width="745" alt="The strip on the Windows taskbar next to the tray"><br>
+  <sub>On the taskbar — Codex, Devin and DeepSeek next to the tray</sub>
 </p>
-<p>
+<p align="center">
   <img src="media/flyout.png" width="588" alt="Provider details flyout with quota windows and reset dates"><br>
   <sub>The details flyout — quota windows, pace ticks and reset dates</sub>
 </p>
