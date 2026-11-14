@@ -6,7 +6,14 @@ never in the way.
 
 [![Download](https://img.shields.io/github/v/release/dosoft/TaskbarAIMonitor?label=Download%20for%20Windows)](https://github.com/dosoft/TaskbarAIMonitor/releases/latest/download/taskbar-ai-monitor-win-Setup.exe)
 
-<img src="media/widget.png" width="471" alt="The taskbar strip showing Codex, DeepSeek and Devin meters">
+<p>
+  <img src="media/widget.png" width="471" alt="The taskbar strip showing Codex, Devin and DeepSeek meters"><br>
+  <sub>On the taskbar — Codex, Devin and DeepSeek at a glance</sub>
+</p>
+<p>
+  <img src="media/flyout.png" width="588" alt="Provider details flyout with quota windows and reset dates"><br>
+  <sub>The details flyout — quota windows, pace ticks and reset dates</sub>
+</p>
 
 ## Install
 
@@ -27,8 +34,6 @@ left*, but *will it last*. Each bar does that math at your current pace: a
 tick marks where the fill would sit under an even burn, and the bar's colour
 is the projected remainder at reset — neutral while the quota should last,
 amber through orange to red as the projection slips into deficit.
-
-<img src="media/flyout.png" width="588" alt="Provider details flyout with quota windows and reset dates">
 
 ## Providers
 
