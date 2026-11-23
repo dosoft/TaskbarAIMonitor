@@ -56,4 +56,5 @@ amber through orange to red as the projection slips into deficit.
 ---
 
 Releases and the update feed for Taskbar AI Monitor — sources are private.
-MIT license · [Changelog](CHANGELOG.md) · [Oleg Danilov](https://github.com/dosoft)
+
+<sub>© 2026 [Oleg Danilov](https://github.com/dosoft) · [MIT License](LICENSE) · [Changelog](CHANGELOG.md)</sub>
