@@ -4,6 +4,15 @@ All notable changes to TaskbarAIMonitor will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.10]
+
+- Install and update Taskbar AI Monitor with a smaller NSIS installer.
+  If you have a Velopack installation, uninstall it through Windows and run
+  the new Setup once. Your settings and API keys are kept.
+
+- The tray and taskbar context menu now renders dark to match the app,
+  instead of the default light system menu.
+
 ## [0.1.7]
 
 - Flyout update banner now links to the changelog (`changelog ↗`) for the
