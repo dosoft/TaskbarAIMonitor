@@ -4,6 +4,14 @@ All notable changes to TaskbarAIMonitor will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.12]
+
+- Add a "Colored icons" toggle to Settings / Taskbar: switch it off to render all provider glyphs in the strip in a uniform neutral color instead of brand colors.
+- Show the pace marker and projected pace color on quota bars from the very start of each window instead of hiding them for the first ~5% of the window.
+- Animate quota bar fills smoothly when values change instead of redrawing them in a step.
+- Show a shimmering skeleton shaped like the incoming data while providers load at startup, and a neutral auth marker when sign-in is missing or expired instead of a red error dash.
+- Align log columns so timestamps, levels and components line up.
+
 ## [0.1.11]
 
 - Improve diagnostic logs with readable timestamps and optional debug details.
