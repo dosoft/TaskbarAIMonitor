@@ -4,6 +4,12 @@ All notable changes to TaskbarAIMonitor will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.11]
+
+- Improve diagnostic logs with readable timestamps and optional debug details.
+- Record the latest installation attempt and rollback result in the installer log.
+- Name the cause of update failures (HTTP status, feed field, checksum) without exposing URLs.
+
 ## [0.1.10]
 
 - Install and update Taskbar AI Monitor with a smaller NSIS installer.
